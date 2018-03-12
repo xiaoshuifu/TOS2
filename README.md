@@ -33,7 +33,7 @@ Now follow me onto the exploration of Teamothers platform!
     4. [Internal structure of distributed Control chain Block for Teamothers](#InternalStructure)
 6. [Autobot currency system](#AutobotCurrencySystem)
     1. [Teamothers settlement currency](#SettlementCurrency)
-#7. [Teamothers Development Plan](#DevelopmentPlan)
+7. [Teamothers Development Plan](#DevelopmentPlan)
     1. [Initial planning: Platform building](#PlatformBuilding)
     2. [Medium-term planning: Extension optimization](#Optimization)
     3. [Future planning: Global Development](#GlobalDev)
