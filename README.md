@@ -42,7 +42,7 @@ Now follow me onto the exploration of Teamothers platform!
     2. [Financial profit model](#FinancialProfitModel)
 9. [Teamothers Council](#Council)
     1. [Governing body](#GoverningBody)
-    2. [Governing supervision](#GoverningSupervision)
+    2. [Governing supervision](#GoverningSupervision)
 10. [Teamothers issuance Programme](#IssuanceProgramme)
     1. [Total amount of distribution](#DistributionAmount)
     2. [Distribution scheme](#DistributionScheme)
