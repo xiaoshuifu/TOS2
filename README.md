@@ -41,8 +41,8 @@ Now follow me onto the exploration of Teamothers platform!
     1. [Payment of charges](#Payment)
     2. [Financial profit model](#FinancialProfitModel)
 9. [Teamothers Council](#Council)
-    1. [Governing body](#GoverningBody)
-    2. [Governing supervision](#GoverningSupervision)
+    1. [Governing body](#GoverningBody)
+    2. [Governing supervision](#GoverningSupervision)
 10. [Teamothers issuance Programme](#IssuanceProgramme)
     1. [Total amount of distribution](#DistributionAmount)
     2. [Distribution scheme](#DistributionScheme)
@@ -64,7 +64,8 @@ Now follow me onto the exploration of Teamothers platform!
     14. [Other instructions](#Others)
 12. [Disclaimer](#Disclaimer)
 
-    <a name="IndustryAnalysis"></a>
+
+<a name="IndustryAnalysis"></a>
 ## Industry Analysis
 
 
