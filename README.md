@@ -162,16 +162,21 @@ b) Client function
 The block chain is a distributed account, a technical solution that collectively maintains a reliable database through centralization and trust - removal. Due to the fact that block chains can not be tampered with, under the joint efforts of many block chain organizations and companies, the centralization of trust has evolved from centralization of trust to centralization of trust based on Algorithm and data. In the automotive vehicle supply chain chain block vehicle service platform, with the centralization of trust intermediary being gradually weakened and replaced, a decentralized service authentication system was established.
 
 P2P network platform with the underlying encryption and Hash technology to solve the data can't be falsified and delete data and other problems -- vehicle information if present in the blockchain, curing will achieve the evidence, this is not the blockchain tampering.
-3.2.2 User assured service flow
+
+2) User assured service flow
+
 Automobile supply chain chain block to the center of the automobile service platform with global trend, through all the chips, can be fully utilized in the global precipitation of small amounts of money, but also the effect of the formation of a, the formation of a new way to autonomous center, effectively enhance the quality of service platform. All vehicle information on the platform is faithfully recorded and categorized on the platform, so that it can be used by the users of the platform to get a more realistic and comprehensive information and experience of the car.
 
 Meanwhile, the technology team of the auto supplier chain is jointly developed by the domestic block chain industry elites, the automobile association and the Silicon Valley block chain technology team, and has strong technical team and strong support.
-3.2.3 Digital token trading mode
+
+3) Digital token trading mode
+
 Digital tokens do not exist in the form of strings. In concept, they are the right to account on the block chain. Having these tokens is like having a key, creating a new account on the ledger, redistributing ownership to others, or allowing you to redistribute the number. In other words, digital tokens are the specific amounts of the digital resources that are controlled.
 
 The application of bitcoin to electronic transactions on the car chain of auto supplier chain block has the characteristics of online trading of e-money. In the case of anonymity, it is necessary to find his true identity when he wants to trace and trace some information. At this point, the traceability mechanism of the block chain can be used to turn his anonymous identity into a real identity.
 
-2) Transparent public credit system
+4) Transparent public credit system
+
 In contrast, the current automotive investment market is chaotic, with some automotive projects being more front-oriented. But the Teamothers supply chain is guided by the application to the ground. It is a real block chain application to solve the pain point of the industry. In the traditional process, the business parties are independent and do not trust each other, lack of data security, reliable and real-time sharing, and form an isolated island of information. In the service platform of block chain of Teamothers supply chain, the business participants directly read the data, reduce the coupling degree of multi-party system, and solve the information asymmetry in the traditional process. The problem of low transfer efficiency can be applied to supply Should chain finance, cross-border remittance, inter-agency settlement and so on.
 
 <a name="ConjugateSystem"></a>
@@ -179,24 +184,28 @@ In contrast, the current automotive investment market is chaotic, with some auto
 The Teamothers supply chain connects the production and operation data of all industries by building the enterprise and material linkage system, and helps the traditional industries to embrace the Internet. Through massive multi-source data collection, convergence, calculation, analysis, display, production line digitization, Service platform to provide customers with equipment warning, spare parts replacement forecasting management, product quality management, cost management, production line operation optimization and other overall solutions. The main content is data access-data computing analysis-business applications and innovation.
 
 1) Data structure pattern
+
 The whole life cycle of the middle line to link all the enterprises to produce products, establish product archives, and included all multi class production equipment operation data (including the production line process, performance, efficiency, energy efficiency, economy, and production line) will be complete, accurate and timely data description, the establishment of digital twins show foundation for data analysis, based on the calculation. The data include: equipment operation data, product transport data, talent flow data, daily operation data and consulting reports, especially the data of settlement and collection port of enterprises. Then, based on these data and algorithms, a unique data model is formed in the physical union system. The interconnection of all things will create numerous data models to help the car people build the system of material union.
 
 2) Big data operating system
+
 The Teamothers supply chain takes the production process data as the core, modulates and standardizes the common parts, helps the traditional industry to build high quality quickly with low cost. The high performance big data operation system. The manager will observe the enterprise's operation through this platform, including the production capacity, the personnel, the technology, the management data to the goods circulation, can help the enterprise to achieve :
 
-    ⦁	Product lifecycle management：Feedback operation status to improve product design. For defective products, find and locate the defect process, influence factors, guide the optimization of production line transformation;
-    ⦁	Production process optimization：Carry out targeted process, process, energy efficiency, equipment maintenance optimization;
-    ⦁	Health management of equipment：The trend of historical development, the prediction of the development trend of the fault, and the guidance of inspection, maintenance and technical reform;
-    ⦁	Inter enterprise service management：On the basis of data sharing of production line, work coordination and service collaboration among enterprises are realized.
+    a) Product lifecycle management：Feedback operation status to improve product design. For defective products, find and locate the defect process, influence factors, guide the optimization of production line transformation;
+    b) Production process optimization：Carry out targeted process, process, energy efficiency, equipment maintenance optimization;
+    c) Health management of equipment：The trend of historical development, the prediction of the development trend of the fault, and the guidance of inspection, maintenance and technical reform;
+    d) Inter enterprise service management：On the basis of data sharing of production line, work coordination and service collaboration among enterprises are realized.
 
 <a name="CreditSystem"></a>
 ### Automobile credit system
+
 The Teamothers supply chain team builds a credit information system based on the Internet of things system to evaluate the credit data of the auto industry. Its node members include credit information agencies, users, other institutions (finance leasing companies, auto parts companies, etc.). Automotive production departments, government departments, etc., the evaluation contents mainly include the capacity of the enterprise, the flow of people, the technical ability, the management data, the circulation of goods and the sales response of the products. Through the Internet of things, these modular data access to the data model to form a car credit model. In the future, we will connect with the central banks of various countries to grant credit, access more corporate credit data. In order to shape the Teamothers supply chain credit system authority.
 
 At the same time, in order to solve the problem of credit information abuse, the Teamothers supply chain team uses the intelligent contract of the block chain to establish the credit inquiry authorization mechanism, and records the authorization and query by using the traceability of the block chain, and the block chain is irreversible. In addition, sensitive information recorded in the block chain has been encrypted and can be checked only after authorization.
 
 <a name="FinanceModel"></a>
 ### Ecological finance model
+
 The Teamothers supply chain has extended its reach to finance after creating a credible ecosystem, including links and credit data. Using block chain technology to build an ecological financial model for the financial industry. The model will focus on the Teamothers supply chain settlement platform, radiation all financial fields, open the platform for all legitimate financial institutions, and exchange data. Interoperable credit information. Covers areas such as global settlement, insurance claims processing, syndicated loans, trade finance, capital raising, automation compliance, proxy voting, asset remortgage, and so on.The block chain technology will make the financial services trade faster, the cost will be lower, and the information island will disappear. As the history of credit and the source of the assets become an immutable part of the record, the risk is correspondingly reduced. The horizon will be widened: for example, it is easier to confirm whether the trading partners are committed to the current negotiations. As the audit track records are available at any time, the process of dispute handling will be simpler. Intelligent contracts can perform binding agreements in real time.
    
 <a name="TeamothersValue"></a>
@@ -204,27 +213,34 @@ The Teamothers supply chain has extended its reach to finance after creating a c
 
 <a name="UseCase"></a>
 ### Teamothers application scene
+
 After creating a decentralized and credible automobile service platform, Teamothers will expand the industry in the future, provide solid technical infrastructure for more application scenarios, enhance industry efficiency, and reduce business operating costs. The platform in car rental, auto trading, automotive Internet, auto maintenance, automotive supply chain finance and other businesses will have a lot of success.
 
 The main application scenarios of Teamothers include:
         
 1) Lease information sharing
+
 To solve the serious financial loss caused by two custody, the vehicle caused by the information is not shared by the financing leasing company is continuously swindled.
 
 2) Set up a perfect car file
+
 Establish a perfect record for the global automobile, easy to trace and view the complete file, eliminate the phenomenon of the universal modification of the odometer in the global automobile market to cheat the consumer at the high price.
 
 3) Evaluation of vehicle value
+
 Solution because of the dangerous condition of the vehicle insurance company data is not open, second-hand car dealers vehicle transaction price can only rely on the appraiser to estimate the price, value and price of man-made vehicles seriously inconsistent problem;
 
 4) Record vehicle maintenance information
+
 The maintenance records that solve the global maintenance plant will not be recorded in the case, resulting in the serious lack of maintenance records of many cars and the distortion of vehicle conditions;
 
 5) Avoid the scrap car to go on the road
+
 To solve the problem of scrapping, passing away and abandonment of discarded vehicles, the currently scrapped vehicles flow into the second-hand car market, leaving the scrapped cars on the road, causing great social problems for safety and management.
 
 <a name="FutureValue"></a>
 ### Application value analysis in the future
+
 Teamothers supply chain can provide a decentralized, authoritative automobile information sharing and management platform, which makes the whole auto supply chain service industry more standardized.
 
 Because the block chain has outstanding performance, the application of block chain technology to the Teamothers supply chain platform will serve the development of the automobile industry better. On the one hand, the  Teamothers supply chain can not only record all relevant information of the vehicle, but also form a complete flow path by using the non tampering nature of the block chain, so as to eliminate the fake and shoddy products and protect the legitimate rights and interests of consumers. At the same time, the automobile supply chain helps to strengthen the industry supervision and promote the healthy development of the automobile industry through the construction of the trust system based on technology.
@@ -236,12 +252,14 @@ On the other hand, the auto supplier supply chain builds the business ecosystem 
 
 <a name="ConsensusMechanism"></a>
 ### Teamothers consensus mechanism
+
 The value anchors of the block chain lie in the consumption and output of the chain itself. When block chain selection PoW (Power-of-Work) is used as a consensus mechanism, the computation power of each block generation will become the cornerstone of its value. In addition, in the car supplier supply chain, each node has the ability to solve the real environmental problems, and can provide products and services for all kinds of shared industries. If each node in the automotive supply chain can participate in the settlement of the shared work, the whole block chain has a realistic output value. Therefore, in order to maximize the self value of the block chain, the auto man supply chain will choose the PoW based consensus mechanism by default. The key point of POW is that the greater the calculation force, the greater the probability of digging into the block, and the greater the weight of the maintenance block chain security.
 
 However, because PoW has a dominant disadvantage such as slow transaction speed, the consensus mechanism of subsequent data link in the platform will be designed to modularized. It can be configured by controlling chain parameters, and it can be applied to different application scenarios of public chain and private chain dynamically. The sharing and collaboration big data platform of the automotive supplier chain will choose the appropriate consensus mechanism for the application scenarios and transaction situations of the data chain itself, so as to ensure that all the distributed nodes achieve data consistency through algorithm.
 
 <a name="CryptographyPrinciple"></a>
 ### Autobot Cryptography principle
+
 The cryptographic principle of the Teamothers supply chain is an improvement of the traditional etheric workshop.
 
 1) Symmetric encryption：Symmetric encryption is the fastest and simplest way to encrypt. Encryption and decryption  use the same secret key. Symmetric encryption usually uses a relatively small key, usually less than 256 bit. The size of the key has to take care of both security and efficiency, and it is a trade-off.
@@ -256,19 +274,19 @@ The cryptographic principle of the Teamothers supply chain is an improvement of 
 
 <a name="DistributedControl"></a>
 ### The distributed control structure of Teamothers
+
 The block chain of Teamothers constructs a distributed structure system based on the open source, decentralized protocol determined by the system. The information of value exchange is distributed and sent to the whole network, and the information content is determined by distributed bookkeeping. After timestamp, block data is generated and sent to each node by distributed propagation, which realizes distributed storage. Specifically, the distributed structure is embodied in three aspects:
 
 1) Distributed accounts.The Teamothers supply chain establishes a distributed accounting system in which everyone can participate in the recording of information by voluntary principle, so that the accounting responsibility is decentralized and recorded by all the participants in the whole network.
 
 2) Distributed communication.Every new transaction in block chain is distributed by distributed structure. According to P2P network layer protocol, messages are sent directly to all other nodes in the whole network by a single node.
 
-3) Distributed storage.Let all the data in the database be stored in all the computer nodes of the system and update in real time. Completely de centralized structure settings enable data to be recorded in real time and updated in every network node that participates in data storage, which greatly improves the security of database.
-
-Through distributed, accounting, distributed communication and distributed storage, the three distribution systems are centralization of data storage, transaction verification and information transmission. The use of distributed way to exchange brokered settlement, the seller and the seller Guadan Guadan buffer block chain. When consensus node keeping books, triggering automatic trading pending, the bill will spread to the distributed network, the node verifies above 51% after the completion of the transaction. The advantage of distributed matching transaction settlement is that every transaction is well documented. Every transaction has been confirmed by the most extensive nodes. It improves the security of transaction records and increases the difficulty of hackers to manipulate the trading disk. 
+3) Distributed storage.Let all the data in the database be stored in all the computer nodes of the system and update in real time. Completely de centralized structure settings enable data to be recorded in real time and updated in every network node that participates in data storage, which greatly improves the security of database.Through distributed, accounting, distributed communication and distributed storage, the three distribution systems are centralization of data storage, transaction verification and information transmission. The use of distributed way to exchange brokered settlement, the seller and the seller Guadan Guadan buffer block chain. When consensus node keeping books, triggering automatic trading pending, the bill will spread to the distributed network, the node verifies above 51% after the completion of the transaction. The advantage of distributed matching transaction settlement is that every transaction is well documented. Every transaction has been confirmed by the most extensive nodes. It improves the security of transaction records and increases the difficulty of hackers to manipulate the trading disk. 
 Please refer to White Paper for a figure with the parameter and model of the distributed control chain of the auto man supply chain.
 
 <a name="InternalStructure"></a>
 ### Internal structure of distributed Control chain Block for Teamothers
+
 The structure of a single block chain of Teamothers data blocks consists of three parts:
 (1) Data area block;
 (2) List of transactions;
@@ -276,6 +294,7 @@ The structure of a single block chain of Teamothers data blocks consists of thre
 
 Among which:
 The list of transactions includes as many transactions as possible, similar to: 
+
 '''
 transaction_list = [
 transaction 1,
@@ -368,15 +387,14 @@ The management of the Teamothers platform is carried out jointly by the core tea
 <a name="DistributionScheme"></a>
 ### Distribution scheme
 Teamothers token issue scheme: 
-|Scheme|Proportion|Amount|Explain|
-|:----:|:--------:|:----:|:-----:|
-|Public sale|20%|16,000,000|Don't lock|
-|Fund team|15%|12,000,000|Don't lock|
-|Fund team|15%|12,000,000|Don't lock|
-|Official team operation|10%|8,000,000|Part suocang, bulletin of operating costs|
-|Teamothers third party partner|15%|12,000,000|Lock mechanism, the release of 12% year by year|
-|Team motivation|35%|28,000,000|Lock mechanism, incentive as a community|
-|Sum|100%|80,000,000|Distribution scheme|
+| Scheme | Proportion | Amount | Explain |
+| :----: | :--------: | :----: | :-----: |
+| Public sale | 20% | 16,000,000 | Don't lock |
+| Fund team | 15% | 12,000,000 | Don't lock |
+| Official team operation |10% | 8,000,000 | Part suocang, bulletin of operating costs |
+| Teamothers third party partner |15% | 12,000,000 | Lock mechanism, the release of 12% year by year |
+| Team motivation | 35% | 28,000,000 | Lock mechanism, incentive as a community |
+| Sum | 100% | 80,000,000 | Distribution scheme |
 
 <a name="UseofFunds"></a>
 ### Plan for the use of funds
